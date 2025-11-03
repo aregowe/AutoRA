@@ -160,11 +160,9 @@ Prevents starting when:
 
 ---
 
-## 📚 Documentation
+## 📚 Additional Documentation
 
-- **[FULL_DOCUMENTATION.md](FULL_DOCUMENTATION.md)** - Complete usage guide with examples
-- **[OPTIMIZATIONS_APPLIED.md](OPTIMIZATIONS_APPLIED.md)** - Detailed optimization report
-- **[OPTIMIZATION_REPORT.md](OPTIMIZATION_REPORT.md)** - Original performance analysis
+See **[CHANGES.md](CHANGES.md)** for detailed technical documentation of all v3.0.0 optimizations and improvements.
 
 ---
 
@@ -185,8 +183,6 @@ Prevents starting when:
 - Check for conflicting binds: `//bind`
 - Manually rebind: `//bind ^d ara start` and `//bind !d ara stop`
 
-See [FULL_DOCUMENTATION.md](FULL_DOCUMENTATION.md) for complete troubleshooting guide.
-
 ---
 
 ## 📈 Version History
@@ -196,6 +192,8 @@ See [FULL_DOCUMENTATION.md](FULL_DOCUMENTATION.md) for complete troubleshooting 
 **New Safety Features**: Ammo detection, target validation, zone protection, pre-start checks  
 **Bug Fixes**: TP check timing, keybind cleanup, configuration validation  
 **Code Quality**: Comprehensive documentation, proper state management
+
+See [CHANGES.md](CHANGES.md) for complete details.
 
 ### Version 2.0.0 (Original by Banggugyangu)
 Initial implementation with basic automation, TP halt, and keybind support.
